@@ -8,3 +8,6 @@ So far, the list in this repository includes the following notebooks that provid
    
 2. LinkedIn tech jobs in India 2023
    https://www.kaggle.com/code/lorresprz/linkedin-tech-jobs-in-india-2023
+
+3. World unemployment trend: 1991 - 2021
+ https://www.kaggle.com/code/lorresprz/world-unemployment-trend-1991-2021
